@@ -9,9 +9,8 @@
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <p align="center">
-<a href="https://twitter.com/RaniAdhikari1" target="blank"><img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
-<a href="https://www.linkedin.com/in/kavya-katal-64260a318/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
-<a href="https://www.instagram.com/kavkatal_521/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+<a href="www.linkedin.com/in/neelanshu-karn-05146130a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
+<a href="https://www.instagram.com/neelanshu_karn/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
 </p>
 
 <!-- Live Viewer Count -->
@@ -29,7 +28,7 @@
 
 <h1><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="45"> About Me</h1> 
 
-- First-year BTech student in CSE-DS with a passion for problem-solving and innovation
+- First-year BTech student in CS-AI with a passion for problem-solving and innovation
 - Frontend Developer focused on building intuitive and engaging user interfaces
 - Exploring Data Structures and Algorithms (DSA) in Python and C++ to deepen my problem-solving skills
 - 📫 Reach me at: karnneelanshu@gmail.com
