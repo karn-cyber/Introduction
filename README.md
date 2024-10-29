@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/kavya-katal-64260a318/" target="_blank">Kavya Katal</a></h1>
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="www.linkedin.com/in/neelanshu-karn-05146130a/" target="_blank">Neelanshu Karn</a></h1>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 <!-- Live Viewer Count -->
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=KatalKavya96&style=for-the-badge" alt="Neelanshu Karn's Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=karn-cyber&style=for-the-badge" alt="Neelanshu Karn's Profile Views" />
 </p>
 
 <!-- Flowing Line -->
