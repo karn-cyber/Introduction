@@ -54,26 +54,15 @@
 
 
 
-<a href="https://github.com/KatalKavya96/github-readme-stats">
+<a href="https://github.com/karn-cyber/github-readme-stats">
     <img width=100% src="https://github-profile-trophy.vercel.app/?username=karn-cyber&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </a>
 
 
 <!-- gg -->
-<a href="https://github.com/KatalKavya96/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KatalKavya96&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
+<a href="https://github.com/karn-cyber/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=karn-cyber&theme=bear&show_icons=true&hide_border=true&count_private=true" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=karn-cyber&theme=bear&hide_border=true" width="45%"/>
 </a>
-
-<h1 align="left">🦖 Holopin</h1>
-
-<p align="center">
-    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2qacbsh215400cl6tlyha8hy" target="_blank">
-        <img src="https://holopin.me/KatalKavya96" alt="KatalKavya96's Holopin Badges" width="100%" style="max-width: 600px;"/>
-    </a>
-</p>
-
-<h2 align="center">Upcoming Badges</h2>
-<p align="center">Check out my badges for Hacktoberfest 2024 and stay tuned for more upcoming achievements!</p>
 
 <h2 align="center">Thank You for Visiting and Supporting 🫶</h2>
